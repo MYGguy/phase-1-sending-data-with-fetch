@@ -29,6 +29,21 @@
       "dogName": "Byron",
       "dogBreed": "Poodle",
       "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 9
     }
   ],
   "cats": [
@@ -43,7 +58,248 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "name": "Moshe",
+      "email": "pizza@email",
+      "id": 1
+    },
+    {
+      "name": "Moshe",
+      "email": "pizza@email",
+      "id": 2
+    },
+    {
+      "name": "Moshe",
+      "email": "pizza@email",
+      "id": 3
+    },
+    {
+      "name": "Moshe",
+      "email": "pizza@email",
+      "id": 4
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 5
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 6
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 7
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 8
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 9
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 10
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 11
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 12
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 13
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 14
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 15
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 16
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 17
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 18
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 19
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 20
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 21
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 22
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 23
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 24
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 25
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 26
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 27
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 28
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 29
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 30
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 31
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 32
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 33
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 34
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 35
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 36
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 37
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 38
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 39
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 40
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 41
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 42
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 43
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 44
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 45
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 46
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 47
+    },
+    {
+      "name": "Moshe",
+      "email": "moshe@email.com",
+      "id": 48
+    }
+  ],
   "robots": [
     {
       "robotName": "C8-09S100K",
